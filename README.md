@@ -21,6 +21,10 @@
   <strong>Event Platform</strong> - is a web platform that the user uses to attend classes on any topic, in which they can have practical classes and live classes, there is also the differentiation of content that is already available for consumption and content that will still be available, all this information (as well as the teacher's name, title and class description) is consumed from the API provided by GraphCMS.
 </p>
 
+<p>
+  Do you want to test this app? <a href="https://ignite-lab-blond-eight.vercel.app/">Click here</a> 👈🏽
+</p>
+
 
 <h2>🚀 Technologies</h2>
 <p>
