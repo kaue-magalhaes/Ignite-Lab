@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  Do you want to test this app? <a href="https://ignite-lab-blond-eight.vercel.app/">Click here</a> 👈🏽
+  Do you want to test this project? <a href="https://ignite-lab-blond-eight.vercel.app/">Click here</a> 👈🏽
 </p>
 
 
